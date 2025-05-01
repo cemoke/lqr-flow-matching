@@ -1,10 +1,12 @@
 # Linear Quadratic Flow Matching for Ergodic Coverage
 
 <div align="center">
-<img src="media/flow_matching_comparison.gif" alt="logo" width="500"></img>
+<img src="https://github.com/MurpheyLab/lqr-flow-matching/raw/main/media/flow_matching_comparison.gif" alt="logo" width="500"></img>
 </div>
 
-This repository contains implementations for the paper [**"Flow Matching Ergodic Coverage"**](https://arxiv.org/abs/2504.17872), presented at [Robotics: Science and Systems (RSS) 2025](https://roboticsconference.org/).
+This repository contains implementations for the paper [**"Flow Matching Ergodic Coverage"**](https://arxiv.org/abs/2504.17872), presented at [Robotics: Science and Systems (RSS) 2025](https://roboticsconference.org/). 
+
+Please visit the [**project website**](https://murpheylab.github.io/lqr-flow-matching/) for more information. 
 
 This repository is under active development, stay tuned for more!
 
