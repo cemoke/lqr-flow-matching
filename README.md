@@ -12,7 +12,7 @@ This repository is under active development, stay tuned for more!
 
 ## Tutorials
 
-All the tutorials are implemented using [`jax`](https://github.com/jax-ml/jax). We use [`lqrax`](https://github.com/MaxMSun/lqrax/tree/main) to solve the continuous time Riccati equation for the LQ flow matching problem and [`ott`]() for Sinkhorn divergence.
+All the tutorials are implemented using [`jax`](https://github.com/jax-ml/jax). We use [`lqrax`](https://github.com/MaxMSun/lqrax/tree/main) to solve the continuous time Riccati equation for the LQ flow matching problem and [`ott`](https://github.com/ott-jax/ott) for Sinkhorn divergence.
 
 - [[Notebook](https://github.com/MurpheyLab/lqr-flow-matching/blob/main/tutorials/stein_flow_coverage.ipynb) | [Google Colab](https://colab.research.google.com/github/MurpheyLab/lqr-flow-matching/blob/main/tutorials/stein_flow_coverage.ipynb)] 2D coverage using Stein variational gradient flow with the second-order point-mass dynamics
 - [[Notebook](https://github.com/MurpheyLab/lqr-flow-matching/blob/main/tutorials/stein_flow_coverage_diffdrive.ipynb) | [Google Colab](https://colab.research.google.com/github/MurpheyLab/lqr-flow-matching/blob/main/tutorials/stein_flow_coverage_diffdrive.ipynb)] 2D coverage using Stein variational gradient flow with the differential-drive dynamics
